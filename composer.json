@@ -1,0 +1,12 @@
+{
+  "name": "anderson/projetofinal",
+  "description": "Loja de Hardware",
+  "type": "project",
+  "license": "MIT",
+  "authors": [{
+    "name": "Anderson Rodrigues",
+    "email": "andersonrodrigues7481@gmail.com"
+  }],
+  "minimum-stability": "dev",
+  "require": {}
+}
